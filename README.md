@@ -24,9 +24,9 @@
 ### Admin Commands
 | Command | Usage | Description |
 |---------|-------|-------------|
-| `.ev` | `.ev SCP-049 Hunt` | Starts event immediately |
-| `.evprep` | `.evprep SCP-049 Hunt Assistant` | Announces event preparation |
-| `.votevent` | `.votevent SCP-049 Hunt` | Starts player voting |
+| `.ev` | `ev` | Starts event immediately |
+| `.evprep` | `evprep` | Announces event preparation |
+| `.votevent` | `votevent` | Starts player voting |
 
 ### Player Commands
 | Command | Action | Cooldown |
