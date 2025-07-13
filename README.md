@@ -4,7 +4,6 @@
 
 ![Version](https://img.shields.io/badge/Version-1.0.3-blue?style=for-the-badge) 
 ![Exiled](https://img.shields.io/badge/Exiled-9.6.1-green?style=for-the-badge) 
-![Downloads](https://img.shields.io/github/downloads/Skaysss/EventManager/total?color=orange&style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 </div>
