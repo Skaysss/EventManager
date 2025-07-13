@@ -25,7 +25,7 @@
 | Command | Usage | Description |
 |---------|-------|-------------|
 | `.ev` | `ev` | Starts event immediately |
-| `.evprep` | `evprep` | Announces event preparation |
+| `.evprep` | `evp` | Announces event preparation |
 | `.votevent` | `votevent` | Starts player voting |
 
 ### Player Commands
